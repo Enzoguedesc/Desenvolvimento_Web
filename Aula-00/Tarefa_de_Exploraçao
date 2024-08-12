@@ -1,0 +1,18 @@
+'''
+Use o vscode para fazer um arquivo de texto contendo: 
+os endereços das páginas de referência das ferramentas;
+a identificação da relação entre as páginas de referência e o conteúdo da
+disciplina;
+
+Git: https://git-scm.com/download/win
+Python: https://www.python.org/downloads/
+VsCode: https://code.visualstudio.com/download
+SQLite: https://sqlitebrowser.org/
+
+Relação:
+
+- Python: 1
+- Git: 2, 4, 9, 10, 12
+- VsCode: 6, 7, 11, 13
+- SQLite: 3, 5, 8, 10, 14
+'''
