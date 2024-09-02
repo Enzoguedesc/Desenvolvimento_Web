@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+/* mudando o tamanho do tituilo "o que é integral??" em 3x o tamanho normal */
+h1{
+    font-size: 3em;
+}
+
+
+#div-fundo{
+    background-color: cornflowerblue;
+    width: 50vw;
+}
+
+/* mudando a fonte do arquivo todo */
+html{
+    font-family: "Merriweather", serif;
+}
+
+#vazia{
+    height: 30px;
+    width: 50px;
+    background-color: brown;
+    margin: auto;
+}
+
+#cor-fundo{
+    color: red;
+    font-weight: bold;
+    background-color: blue;
+}
+
+#tamanho-fixo{
+    border: solid 5px green;
+    width: 600px;
+    height: 100px;
+    margin: auto;
+}
+
+#tamanho-relativo{
+    border: solid 5px blueviolet;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+#negrito{
+    font-weight: bold;
+}
