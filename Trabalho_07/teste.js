@@ -56,3 +56,58 @@ const setinha = (entrada) => {
 
 // tipo de funcao 3
 const setinha2 = (entrada) => entrada + 34;
+
+
+const meuArray = [21, 34, 'Enzo', [32,45]];
+
+// meuArray.length - conta quantos elementos tem 
+// delete meuObjeto.alguamcoisa  - deleta oq vc criou
+
+var minhaGlobal = 34;
+
+function minhaNovissimaFuncao(){
+  let minhaGlobal = 23;
+  return minhaGlobal;
+}
+
+
+function minhaFuncaoMaior(entrada){
+  let resultado;
+  if (entrada % 2 === 0){
+    resultado = 'par';
+  }
+  return resultado;
+}
+
+
+
+meuArrey.forEach((el) => console.log(el))
+const funcImprime = (ele, indice) => console.log('indice', indice, ':', ele)
+meuArray.forEach(funcImprime)
+
+  
+                     
+function minhaFuncaoMaior2(entrada){
+  let r;
+  if (entrada % 2 === 0){
+    r = 'par';
+  } else{
+    r = 'impar';
+  }
+  return r;
+}
+
+
+function minhaMaiorFuncao(l1, l2, l3){
+  const r = '';
+  if (l1 == l2 == l3){
+    r = 'Equilatero';
+  } if (l2 == l3){
+    r = 'Isósceles';
+  } if (l1 != l2 != l3){
+    r = 'Escaleno';
+  }else {
+  r = "Não é um triângulo"
+  }
+  return r;
+}
