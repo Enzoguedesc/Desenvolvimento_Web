@@ -1,0 +1,52 @@
+              Banco de Dados Relacionais
+
+- Coleção de dados com significado inerente.
+Eles são projetados, construído e populado com dados para uma
+finalidade específica.
+
+- Um sistema gerenciador de banco de dados (SGBD – Database
+Management System) é uma coleção de programas que
+permite aos usuários criar e manter um banco de dados.
+
+    Características de Abordagem de Banco de Dados
+• Natureza de autodescrição de um sistema de banco de
+dados.
+• Isolamento entre programas e dados, e abstração de
+dados.
+• Suporte de múltiplas visões dos dados.
+• Compartilhamento de dados e processamento de
+transação multiusuário
+
+      Vantagens de usar a abordagem SGBD
+• Controle de redundância
+• Controle de Acesso
+• Persistência de objetos do programa
+• Eficiência na busca e armazenamento
+• Múltiplas interfaces de usuário
+• Ferramentas de backup
+• Representação de relacionamentos complexos entre
+dados
+• Restrições de integridade
+• Ações baseadas em regras (triggers)
+
+- Registro inconsistente = informações no lugar errado
+
+           Modelo Racional
+• relação (tabela)
+• atributo
+• domínio
+• tupla
+
+        Restrições em modelo relacional
+• domínio
+• chave
+  • chave primária (oq indentifica unicamente o registro)
+  • chave única
+• integridade referencial
+  • chave estrangeira (dado que faz referencia com outra tabela)
+
+               SQL
+- SQL (Structured Query Language) é a linguagem padrão dos
+SGBDs relacionais.
+
+
