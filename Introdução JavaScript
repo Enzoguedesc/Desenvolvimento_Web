@@ -1,0 +1,51 @@
+          JavaScript
+
+
+    VARIAVEIS
+
+- Variáveis são espaços na memória do computador onde você
+pode armazenar dados. Mas tbm podem ser um nome que rece um valor.
+
+TIPOS:
+
+String   ---  Uma sequência de texto é conhecida como
+              uma string. Para mostrar que o valor é uma    -----  ‘Mangeli’
+              string, você deve envolvê-la em aspas.
+
+Number    Um número. Números não tem aspas ao redor deles.         89.4
+
+
+Boolean         Um valor verdadeiro ou falso. As palavras
+                true e false são palavras reservadas e representam os valores booleanos.      true
+
+Array    -----   Uma estrutura que permite armazenar vários    -------  [23, ’mangeli’, [45, ’b’], 10]
+                  valores em uma única variável.
+
+
+Object
+Basicamente, qualquer coisa. Tudo em JavaScript é um objeto e pode ser armazenado em
+uma variável. Tenha isso em mente enquanto
+aprende.
+funções, os exemplos
+acima ou basicamente
+qualquer coisa.
+
+
+     DECLARAÇÃO
+
+São contêineres para armazenar dados. Podem ser declaradas
+usando três palavras chaves.
+• var - escopo de função - uso desencorajado.
+• let - escopo de bloco.
+• const - declaração de constantes com escopo de bloco.
+
+
+Operador / Descrição
++            adição
+-            subtração
+*            multiplicação
+**           exponenciação (ES16)
+%            módulo (resto da divisão)
+++           incremento
+--           decremento
+
