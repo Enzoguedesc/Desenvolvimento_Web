@@ -1,0 +1,55 @@
+                              
+                                     CSS
+
+- É uma linguagem de folhas de estilos. Isso significa que o
+CSS permite aplicar estilos seletivamente a elementos em
+documentos HTML.
+
+    Regra CSS
+
+- Seletor: O nome do elemento HTML no começo do conjunto
+de regras. Ele seleciona o(s) elemento(s) a serem estilizados
+(nesse caso, elementos <p>). Para dar estilo a um outro
+elemento, é só mudar o seletor.
+
+
+- Declaração: Uma regra simples como (color: red;)
+especificando quais das propriedades do elemento você quer
+estilizar.
+
+- Propriedade:  Forma pela qual você estiliza um elemento
+HTML. (Nesse caso, color é uma propriedade dos elementos
+<p>.) Em CSS, você escolhe quais propriedades você deseja
+afetar com sua regra.
+
+
+- Valor: - À direita da propriedade, depois dos dois pontos,
+temos o valor de propriedade, que escolhe uma dentre muitas
+aparências possíveis para uma determinada propriedade (há
+muitos valores color além do red).
+
+    Sintaxe:
+• à exceção do seletor, o conjunto de regras deve ser
+envolvido por chaves {}
+• nas declarações, as propriedades são separadas dos
+valores por dois pontos :
+• dentro dos conjuntos de regras, as declarações são
+separadas por ponto e vírgula ;
+• comentário sempre no formato /* */ tanto para uma
+quanto para múltiplas linhas
+
+     Exemplo de regra com múltiplas declarações
+
+p {
+	color: white,
+	background-color: black,
+	font-size: 14px;
+}
+
+
+      Exemplo de regra com múltiplos seletores
+
+- p, li, h1 {                  esta selecionando todos esses
+	color: red;
+}
+
