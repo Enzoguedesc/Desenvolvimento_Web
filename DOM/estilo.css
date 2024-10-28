@@ -1,0 +1,45 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#container > article {
+    width: 20rem;
+    font-size: 0.9rem;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0 0 2em 5em;
+    
+}
+
+body{
+    margin: 0;
+}
+
+#paginaTotal{
+    background-color: antiquewhite;
+}
+
+#botao {
+    text-align: center;
+}
+
+#container img {
+    width: 100%;
+}
+
+#titulo{
+    border: 2px solid black;
+    margin: 0 0 0 0;
+    text-shadow: n;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-shadow:
+    1px 1px 1px red,
+    1px 1px 1px red;
+    
+}
