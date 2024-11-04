@@ -23,7 +23,7 @@ body{
 }
 
 #paginaTotal{
-    background-color: rgb(230, 224, 217);
+    background-color: rgb(208, 231, 248);
 }
 
 #botao {
@@ -35,9 +35,6 @@ body{
     display: flex;
 }
 
-#container p {
-    font-size: 1.2em;
-}
 
 #titulo{
     margin: 0 0 0 0;
